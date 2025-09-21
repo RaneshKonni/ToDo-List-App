@@ -75,7 +75,7 @@ ul li{
 
 ul li::before{
   content : '';
-  background-image: url(/images/unchecked.png);
+  background-image: url(./images/unchecked.png);
   position : absolute;
   height: 25px;
   width : 25px;
